@@ -1,0 +1,3 @@
+#!/bin/sh
+
+mvn install:install-file -Dfile=quickfixj-all.jar -DpomFile=quickfixj-all.pom
